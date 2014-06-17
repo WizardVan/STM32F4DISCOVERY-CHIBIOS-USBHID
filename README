@@ -1,0 +1,7 @@
+Make stm32f4discovery board as a 2-axie 6-button usb-hid gampad based on 
+chibios 2.6.x
+
+First you should download chibios 2.6.x.
+Then put these file into demo or testhal directory in chibios.
+Buttons and joystick are extern peripheral and connected to the board.
+All detail information can be found in my blog
